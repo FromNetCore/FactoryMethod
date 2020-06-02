@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosophy_Factory_Method", "Philosophy_Factory_Method\Philosophy_Factory_Method.csproj", "{6F2A9756-49D1-4249-B1DC-F597BCD8F909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartMessenger", "StandartMessenger\StandartMessenger.csproj", "{3B0DEC22-93D2-4A66-938D-0772E6FEA888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartMessenger_Factory_Method", "StandartMessenger_Factory_Method\StandartMessenger_Factory_Method.csproj", "{5644E9F2-2BC7-4820-A2C6-780E5AD16157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2A9756-49D1-4249-B1DC-F597BCD8F909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2A9756-49D1-4249-B1DC-F597BCD8F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2A9756-49D1-4249-B1DC-F597BCD8F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2A9756-49D1-4249-B1DC-F597BCD8F909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0DEC22-93D2-4A66-938D-0772E6FEA888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0DEC22-93D2-4A66-938D-0772E6FEA888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0DEC22-93D2-4A66-938D-0772E6FEA888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0DEC22-93D2-4A66-938D-0772E6FEA888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5644E9F2-2BC7-4820-A2C6-780E5AD16157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5644E9F2-2BC7-4820-A2C6-780E5AD16157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5644E9F2-2BC7-4820-A2C6-780E5AD16157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5644E9F2-2BC7-4820-A2C6-780E5AD16157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
